@@ -24,7 +24,7 @@ Search by specific provider:
 ```golang
 import "github.com/chrissgon/gomanga"
 
-gomanga.SearchByProvider("naruto", "1", MUITOMANGA)
+gomanga.SearchByProvider("naruto", "1", gomanga.MUITOMANGA)
 ```
 
 ### ✅ Providers
