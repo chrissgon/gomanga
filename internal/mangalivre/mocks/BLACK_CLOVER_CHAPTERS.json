@@ -1,0 +1,1452 @@
+{
+  "chapters": [
+    {
+      "id_serie": 1751,
+      "id_chapter": 441727,
+      "name": "Black Clover",
+      "chapter_name": "O Mundo Invis\u00edvel",
+      "number": "360",
+      "date": "ontem",
+      "date_created": "2023-05-26T14:30:38-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 466886,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/466886/360"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 439919,
+      "name": "Black Clover",
+      "chapter_name": "Mais Uma Vez, a Princesa Dan\u00e7arina do Campo de Batalha",
+      "number": "359",
+      "date": "18/05/23",
+      "date_created": "2023-05-18T20:55:04-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 464947,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/464947/359"
+        },
+        "_scan1126": {
+          "id_release": 466882,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/466882/359"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 433919,
+      "name": "Black Clover",
+      "chapter_name": "Crema\u00e7\u00e3o",
+      "number": "358",
+      "date": "20/04/23",
+      "date_created": "2023-04-20T18:24:38-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 458604,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/458604/358"
+        },
+        "_scan1126": {
+          "id_release": 464394,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/464394/358"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 432580,
+      "name": "Black Clover",
+      "chapter_name": "O \u00daltimo Corte",
+      "number": "357",
+      "date": "13/04/23",
+      "date_created": "2023-04-13T23:44:00-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 457175,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/457175/357"
+        },
+        "_scan1126": {
+          "id_release": 464395,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/464395/357"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 429635,
+      "name": "Black Clover",
+      "chapter_name": "Terra do Nunca",
+      "number": "356",
+      "date": "30/03/23",
+      "date_created": "2023-03-30T19:26:39-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 454009,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/454009/356"
+        },
+        "_scan1126": {
+          "id_release": 464396,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/464396/356"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 428083,
+      "name": "Black Clover",
+      "chapter_name": "O Pr\u00edncipe das Estrelas",
+      "number": "355",
+      "date": "23/03/23",
+      "date_created": "2023-03-23T17:24:16-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 452391,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/452391/355"
+        },
+        "_scan1126": {
+          "id_release": 455603,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/455603/355"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 426481,
+      "name": "Black Clover",
+      "chapter_name": "Dia do Julgamento",
+      "number": "354",
+      "date": "16/03/23",
+      "date_created": "2023-03-16T11:21:28-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 450675,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/450675/354"
+        },
+        "_scan1126": {
+          "id_release": 452322,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/452322/354"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 423763,
+      "name": "Black Clover",
+      "chapter_name": "A Festa Est\u00e1 no \u00c1pice",
+      "number": "353",
+      "date": "03/03/23",
+      "date_created": "2023-03-03T00:37:28-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 447761,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/447761/353"
+        },
+        "_scan1126": {
+          "id_release": 452319,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/452319/353"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 422127,
+      "name": "Black Clover",
+      "chapter_name": "Muito Bem",
+      "number": "352",
+      "date": "23/02/23",
+      "date_created": "2023-02-23T22:05:21-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 446020,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/446020/352"
+        },
+        "_scan1126": {
+          "id_release": 452320,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/452320/352"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 420463,
+      "name": "Black Clover",
+      "chapter_name": "Com o Shogun da Terra do Sol",
+      "number": "351",
+      "date": "16/02/23",
+      "date_created": "2023-02-16T23:23:41-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 444234,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/444234/351"
+        },
+        "_scan1126": {
+          "id_release": 452321,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/452321/351"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 417131,
+      "name": "Black Clover",
+      "chapter_name": "A Penit\u00eancia da Santa",
+      "number": "350",
+      "date": "02/02/23",
+      "date_created": "2023-02-02T20:59:51-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 440632,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/440632/350"
+        },
+        "_scan1126": {
+          "id_release": 442346,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/442346/350"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 415501,
+      "name": "Black Clover",
+      "chapter_name": "Asta VS Irm\u00e3 Lily",
+      "number": "349",
+      "date": "27/01/23",
+      "date_created": "2023-01-27T06:27:32-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 438859,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/438859/349"
+        },
+        "_scan1126": {
+          "id_release": 442345,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/442345/349"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 414004,
+      "name": "Black Clover",
+      "chapter_name": "Prepara\u00e7\u00e3o",
+      "number": "348",
+      "date": "20/01/23",
+      "date_created": "2023-01-20T05:44:50-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 437292,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/437292/348"
+        },
+        "_scan1126": {
+          "id_release": 442347,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/442347/348"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 410990,
+      "name": "Black Clover",
+      "chapter_name": "A Verdade na Engana\u00e7\u00e3o",
+      "number": "347",
+      "date": "05/01/23",
+      "date_created": "2023-01-05T20:55:22-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 433996,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/433996/347"
+        },
+        "_scan1126": {
+          "id_release": 435459,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/435459/347"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 407580,
+      "name": "Black Clover",
+      "chapter_name": "Os Cincos Devas",
+      "number": "346",
+      "date": "23/12/22",
+      "date_created": "2022-12-23T10:26:04-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 430346,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/430346/346"
+        },
+        "_scan1126": {
+          "id_release": 432463,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/432463/346"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 403156,
+      "name": "Black Clover",
+      "chapter_name": "Fracasso",
+      "number": "345",
+      "date": "02/12/22",
+      "date_created": "2022-12-02T08:39:45-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 425552,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/425552/345"
+        },
+        "_scan1126": {
+          "id_release": 426789,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/426789/345"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 401641,
+      "name": "Black Clover",
+      "chapter_name": "Ra\u00edzes Sagradas",
+      "number": "344",
+      "date": "25/11/22",
+      "date_created": "2022-11-25T06:31:09-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 423956,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/423956/344"
+        },
+        "_scan1126": {
+          "id_release": 425247,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/425247/344"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 397406,
+      "name": "Black Clover",
+      "chapter_name": "Colis\u00e3o de Preto com Preto",
+      "number": "343",
+      "date": "04/11/22",
+      "date_created": "2022-11-04T08:09:42-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 419442,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/419442/343"
+        },
+        "_scan1126": {
+          "id_release": 420907,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/420907/343"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 396045,
+      "name": "Black Clover",
+      "chapter_name": "O Que Eu Vi Naquela Noite",
+      "number": "342",
+      "date": "28/10/22",
+      "date_created": "2022-10-28T08:36:33-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 417832,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/417832/342"
+        },
+        "_scan1126": {
+          "id_release": 419354,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/419354/342"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 393215,
+      "name": "Black Clover",
+      "chapter_name": "Nebuloso",
+      "number": "341",
+      "date": "14/10/22",
+      "date_created": "2022-10-14T07:39:10-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 414820,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/414820/341"
+        },
+        "_scan1126": {
+          "id_release": 416259,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/416259/341"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 391956,
+      "name": "Black Clover",
+      "chapter_name": "Abertura",
+      "number": "340",
+      "date": "07/10/22",
+      "date_created": "2022-10-07T09:20:23-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 413462,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/413462/340"
+        },
+        "_scan1126": {
+          "id_release": 414779,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/414779/340"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 390592,
+      "name": "Black Clover",
+      "chapter_name": "Ruptura Celestial",
+      "number": "339",
+      "date": "30/09/22",
+      "date_created": "2022-09-30T07:59:37-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 412014,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/412014/339"
+        },
+        "_scan1126": {
+          "id_release": 413208,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/413208/339"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 387829,
+      "name": "Black Clover",
+      "chapter_name": "Os Detalhes de uma Jornada por uma Terra Estrangeira",
+      "number": "338",
+      "date": "16/09/22",
+      "date_created": "2022-09-16T06:13:43-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 409090,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/409090/338"
+        },
+        "_scan1126": {
+          "id_release": 410481,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/410481/338"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 386529,
+      "name": "Black Clover",
+      "chapter_name": "Paradeiro",
+      "number": "337",
+      "date": "09/09/22",
+      "date_created": "2022-09-09T12:51:40-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 407724,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/407724/337"
+        },
+        "_scan1126": {
+          "id_release": 408629,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/408629/337"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 385089,
+      "name": "Black Clover",
+      "chapter_name": "O Inimigo Final",
+      "number": "336",
+      "date": "02/09/22",
+      "date_created": "2022-09-02T08:04:07-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 406182,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/406182/336"
+        },
+        "_scan1126": {
+          "id_release": 407233,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/407233/336"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 383612,
+      "name": "Black Clover",
+      "chapter_name": "Separa\u00e7\u00e3o",
+      "number": "335",
+      "date": "26/08/22",
+      "date_created": "2022-08-26T06:43:55-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 404506,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/404506/335"
+        },
+        "_scan1126": {
+          "id_release": 405624,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/405624/335"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 381921,
+      "name": "Black Clover",
+      "chapter_name": "Alma Fr\u00e1gil",
+      "number": "334",
+      "date": "19/08/22",
+      "date_created": "2022-08-19T10:09:43-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 402702,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/402702/334"
+        },
+        "_scan1126": {
+          "id_release": 404186,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/404186/334"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 379168,
+      "name": "Black Clover",
+      "chapter_name": "O Salvador do Mundo e o Seu Defeito",
+      "number": "333",
+      "date": "05/08/22",
+      "date_created": "2022-08-05T07:29:14-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 399732,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/399732/333"
+        },
+        "_scan1126": {
+          "id_release": 401026,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/401026/333"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 377740,
+      "name": "Black Clover",
+      "chapter_name": "Declara\u00e7\u00e3o Final",
+      "number": "332",
+      "date": "29/07/22",
+      "date_created": "2022-07-29T07:25:42-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 398158,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/398158/332"
+        },
+        "_scan1126": {
+          "id_release": 399229,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/399229/332"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    },
+    {
+      "id_serie": 1751,
+      "id_chapter": 358292,
+      "name": "Black Clover",
+      "chapter_name": "And the time starts to move",
+      "number": "331",
+      "date": "22/04/22",
+      "date_created": "2022-04-22T17:05:30-03:00",
+      "releases": {
+        "_scan1744": {
+          "id_release": 377469,
+          "scanlators": [
+            {
+              "id_scanlator": 1744,
+              "name": "Padaria Scans",
+              "link": "/scanlator/padaria-scans/1744"
+            },
+            {
+              "id_scanlator": 1515,
+              "name": "Tio Asta",
+              "link": "/scanlator/tio-asta/1515"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/377469/331"
+        },
+        "_scan1126": {
+          "id_release": 378742,
+          "scanlators": [
+            {
+              "id_scanlator": 1126,
+              "name": "Drope Scan",
+              "link": "/scanlator/drope-scan/1126"
+            },
+            {
+              "id_scanlator": 1935,
+              "name": "Miojo Scan",
+              "link": "/scanlator/miojo-scan/1935"
+            }
+          ],
+          "views": 0,
+          "link": "/ler/black-clover/online/378742/331"
+        }
+      },
+      "seasonAnimeFinished": null,
+      "officialLink": null,
+      "predictionDate": null,
+      "predictionDateToCalc": null,
+      "serieFirstChapter": "0",
+      "officialSerieLink": ""
+    }
+  ]
+}

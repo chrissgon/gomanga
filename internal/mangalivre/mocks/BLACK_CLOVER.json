@@ -1,0 +1,177 @@
+{
+  "series": [
+    {
+      "id_serie": 1751,
+      "name": "Black Clover",
+      "label": "Black Clover",
+      "score": "9.31",
+      "value": "Black Clover Black Clover;\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc",
+      "author": "Tabata, Yuuki",
+      "artist": "Tabata, Yuuki",
+      "categories": [
+        {
+          "id_category": 23,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "A\u00e7\u00e3o",
+          "_joinData": {
+            "id_serie_category": 202291,
+            "id_serie": 1751,
+            "id_category": 23
+          }
+        },
+        {
+          "id_category": 26,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Com\u00e9dia",
+          "_joinData": {
+            "id_serie_category": 202292,
+            "id_serie": 1751,
+            "id_category": 26
+          }
+        },
+        {
+          "id_category": 30,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Fantasia",
+          "_joinData": {
+            "id_serie_category": 202293,
+            "id_serie": 1751,
+            "id_category": 30
+          }
+        },
+        {
+          "id_category": 35,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Magia",
+          "_joinData": {
+            "id_serie_category": 202294,
+            "id_serie": 1751,
+            "id_category": 35
+          }
+        },
+        {
+          "id_category": 1,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Shounen",
+          "_joinData": {
+            "id_serie_category": 202295,
+            "id_serie": 1751,
+            "id_category": 1
+          }
+        }
+      ],
+      "cover": "https://static3.mangalivre.net/capas/JI2FwmOZqGmRV6ugbqVJsg/1751/63f8f6d14681e_external_cover.jpg",
+      "cover_thumb": "https://static3.mangalivre.net/capas/1VkaNQANuN69HAjLXwDLgw/1751/thumb_63f8f6d14681e_external_cover.jpg",
+      "cover_avif": "https://static3.mangalivre.net/capas/NZuFqRJV-v-0zWDHE4T7Bg/1751/63f8f6d14681e_external_cover.jpg.avif",
+      "cover_thumb_avif": "https://static3.mangalivre.net/capas/rs27kAHVKu_0phA3HS1c0Q/1751/thumb_63f8f6d14681e_external_cover.jpg.avif",
+      "link": "/manga/black-clover/1751",
+      "is_complete": false
+    },
+    {
+      "id_serie": 9284,
+      "name": "Black Clover Gaiden: Quartet Knights",
+      "label": "Black Clover Gaiden: Quartet Knights",
+      "score": "7.57",
+      "value": "Black Clover Gaiden: Quartet Knights \u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc\u5916\u4f1d \u30ab\u30eb\u30c6\u30c3\u30c8\u30ca\u30a4\u30c4",
+      "author": "Tashiro, Yumiya",
+      "artist": "Tashiro, Yumiya",
+      "categories": [],
+      "cover": "https://static3.mangalivre.net/capas/16mX9Mi8D-S6mlz-5uFMRw/9284/external_cover.jpg",
+      "cover_thumb": "https://static3.mangalivre.net/capas/_9WVN-yqXMFxvYyJDEd39g/9284/thumb_external_cover.jpg",
+      "cover_avif": "https://static3.mangalivre.net/capas/8lLY5qhrOI5MvSPIILJ3ew/9284/external_cover.jpg.avif",
+      "cover_thumb_avif": "https://static3.mangalivre.net/capas/nOTXZDOoYspLFQWbPDjjwQ/9284/thumb_external_cover.jpg.avif",
+      "link": "/manga/black-clover-gaiden-quartet-knights/9284",
+      "is_complete": false
+    },
+    {
+      "id_serie": 12553,
+      "name": "Black Clover SD: Asta-kun Mahou Tei e no Michi",
+      "label": "Black Clover SD: Asta-kun Mahou Tei e no Michi",
+      "score": "6.13",
+      "value": "Black Clover SD: Asta-kun Mahou Tei e no Michi Asta\u0027s Journey to Wizard King;\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fcSD \u30a2\u30b9\u30bf\u304f\u3093\u9b54\u6cd5\u5e1d\u3078\u306e\u9053;Black Clover SD - Asta\u0027s Road to the Wizard King",
+      "author": "Kobayashi, Setta",
+      "artist": "Kobayashi, Setta",
+      "categories": [
+        {
+          "id_category": 23,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "A\u00e7\u00e3o",
+          "_joinData": {
+            "id_serie_category": 123083,
+            "id_serie": 12553,
+            "id_category": 23
+          }
+        },
+        {
+          "id_category": 26,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Com\u00e9dia",
+          "_joinData": {
+            "id_serie_category": 123084,
+            "id_serie": 12553,
+            "id_category": 26
+          }
+        },
+        {
+          "id_category": 30,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Fantasia",
+          "_joinData": {
+            "id_serie_category": 123085,
+            "id_serie": 12553,
+            "id_category": 30
+          }
+        },
+        {
+          "id_category": 35,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Magia",
+          "_joinData": {
+            "id_serie_category": 123086,
+            "id_serie": 12553,
+            "id_category": 35
+          }
+        },
+        {
+          "id_category": 41,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Par\u00f3dia",
+          "_joinData": {
+            "id_serie_category": 123087,
+            "id_serie": 12553,
+            "id_category": 41
+          }
+        },
+        {
+          "id_category": 1,
+          "id_sub_domain": null,
+          "domain": "MAIN",
+          "name": "Shounen",
+          "_joinData": {
+            "id_serie_category": 123088,
+            "id_serie": 12553,
+            "id_category": 1
+          }
+        }
+      ],
+      "cover": "https://static3.mangalivre.net/capas/hmyO9hrWA0MC9-cmt_ETJg/12553/607eec6ec0736external_cover.jpg",
+      "cover_thumb": "https://static3.mangalivre.net/capas/zGdx4mlFptQc_mhvYQPg9Q/12553/thumb_607eec6ec0736external_cover.jpg",
+      "cover_avif": "https://static3.mangalivre.net/capas/bv7AUvLW5OZg2XMjsp1B3g/12553/607eec6ec0736external_cover.jpg.avif",
+      "cover_thumb_avif": "https://static3.mangalivre.net/capas/E4F7kQAujGxPBzQvMXSO8A/12553/thumb_607eec6ec0736external_cover.jpg.avif",
+      "link": "/manga/black-clover-sd-asta-kun-mahou-tei-e-no-michi/12553",
+      "is_complete": false
+    }
+  ],
+  "categories": [],
+  "groups": []
+}
