@@ -13,8 +13,6 @@ import (
 	"strconv"
 	"strings"
 	"time"
-
-	"github.com/fatih/color"
 )
 
 var ERROR_NOT_FOUND = errors.New("not found")
@@ -45,7 +43,7 @@ func MakeMockRequest(path string) (*http.Response, error) {
 }
 
 func FormatTestError(expect, have interface{}) string {
-	return fmt.Sprintf("\nexpect: %v, \nhave: %v", color.GreenString("%v", expect), color.RedString("%v", have))
+	return fmt.Sprintf("\nexpect: %v, \nhave: %v", expect, have)
 }
 
 func NewError(fn string, err error) error {
