@@ -1,4 +1,3 @@
-
 # gomanga
 
 ✨ The project aims to make manga reading easier, allowing you to view chapters directly from popular sources. Enjoy the convenience of accessing your favorite manga in one place! 📚💻
@@ -29,17 +28,17 @@ gomanga.SearchByProvider("naruto", "1", gomanga.MUITOMANGA)
 
 ### ✅ Providers
 
-| OK | SITE                                  | NAME       | LANGUAGE
-| -- | ------------------------------------- | ---------- | --------
-| ✅ | [MangaLivre](https://mangalivre.net/) | MANGALIVRE | PT-BR
-| ✅ | [MuitoManga](https://muitomanga.com/) | MUITOMANGA | PT-BR
+| OK  | SITE                                  | NAME       | LANGUAGE |
+| --- | ------------------------------------- | ---------- | -------- |
+| ✅  | [MangaLivre](https://mangalivre.net/) | MANGALIVRE | PT-BR    |
+| ✅  | [LerManga](https://lermanga.org/)     | LERMANGA   | PT-BR    |
+| ❌  | [MuitoManga](https://muitomanga.com/) | MUITOMANGA | PT-BR    |
 
 ## 🔒 Environment Variables
 
 When you run this project, you can set the following environment variables.
 
 `GOMANGA_TIMEOUT`: Search timeout in seconds.
-
 
 ## 💪🏻 Contribution
 

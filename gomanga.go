@@ -10,11 +10,13 @@ type PROVIDER_NAMES string
 const (
 	MANGALIVRE PROVIDER_NAMES = "MANGALIVRE"
 	MUITOMANGA                = "MUITOMANGA"
+	LERMANGA                  = "LERMANGA"
 )
 
 var factories = map[string]pkg.NewProviderFactory{
 	"MANGALIVRE": pkg.NewMangaLivre,
 	"MUITOMANGA": pkg.NewMuitoManga,
+	"LERMANGA":   pkg.NewLerManga,
 }
 
 // make provider

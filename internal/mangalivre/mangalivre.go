@@ -121,10 +121,10 @@ func getPossibleNumberPagesOfChapter(intChapter, intLastChapter int) []int {
 	numberPossiblePage := numberPageOfLastChapter - numberPageOfChapter
 
 	if numberPossiblePage == 0 {
-		return []int{1, 2, 3}
+		return []int{1, 2, 3, 4, 5, 6}
 	}
 
-	return []int{numberPossiblePage, numberPossiblePage + 1, numberPossiblePage + 2}
+	return []int{numberPossiblePage, numberPossiblePage + 1, numberPossiblePage + 2, numberPossiblePage + 3, numberPossiblePage + 4, numberPossiblePage + 5}
 }
 
 func getReleaseID(mangaID int, strChapter string, possibleNumberPages []int) (int, error) {
