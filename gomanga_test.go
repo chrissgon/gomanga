@@ -5,7 +5,7 @@ import (
 )
 
 func TestSearchByProvider(t *testing.T) {
-	_, err := SearchByProvider("one punch man", "200", LERMANGA)
+	_, err := SearchByProvider("jujutsu", "3", LERMANGA)
 
 	if err != nil {
 		t.Error(err)

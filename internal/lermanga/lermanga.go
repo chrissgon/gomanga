@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"net/http"
 	"regexp"
-	"strings"
 
 	"github.com/chrissgon/gomanga/utils"
 )
@@ -30,13 +29,7 @@ func Search(mangaName, strChapter string) ([]string, error) {
 	title := utils.GetTitleWithGreatestSimilarity(mangaName, getTitlesOfMangas(mangas))
 	mangaID := mangas[title]
 
-	numberPages, err := getNumberPagesOfChapter(getChapterPageRequest(mangaID, strChapter))
-
-	if err != nil {
-		return nil, internalError(err)
-	}
-
-	return getImagesURL(mangaID, strChapter, numberPages), nil
+	return getImagesURL(getChapterPageRequest(mangaID, strChapter))
 }
 
 func getMangas(res *http.Response, err error) (map[string]string, error) {
@@ -72,17 +65,17 @@ func getTitlesOfMangas(mangas map[string]string) (titles []string) {
 	return
 }
 
-func getNumberPagesOfChapter(res *http.Response, err error) (int, error) {
+func getImagesURL(res *http.Response, err error) ([]string, error) {
 	if err != nil {
-		return 0, err
+		return nil, err
 	}
 
 	if res.StatusCode != 200 {
-		return 0, utils.ERROR_NOT_FOUND
+		return nil, utils.ERROR_NOT_FOUND
 	}
 
 	if res.Request.Response != nil && res.Request.Response.StatusCode != 200 {
-		return 0, utils.ERROR_NOT_FOUND
+		return nil, utils.ERROR_NOT_FOUND
 	}
 
 	defer res.Body.Close()
@@ -90,25 +83,34 @@ func getNumberPagesOfChapter(res *http.Response, err error) (int, error) {
 	html, err := utils.ResponseBodyToHTML(res.Body)
 
 	if err != nil {
-		return 0, err
+		return nil, err
 	}
 
-	regexMatchSelectContainer := regexp.MustCompile(`(<select class="select_paged">)(.*</option>)`)
-	regexMatchSelectOptions := regexp.MustCompile(`(<option [^>]*>)`)
+	regexMatchScriptURL := regexp.MustCompile(`(https://lermanga.org/wp-content/litespeed/js/)(.*)(\.js)`)
+	regexMatchJSON := regexp.MustCompile(`(?mi)(imagens_cap=)(.*"])`)
 
-	strOptions := regexMatchSelectContainer.FindStringSubmatch(html)[2]
-	arrOptions := regexMatchSelectOptions.FindAllString(strOptions, -1)
+	url := regexMatchScriptURL.FindString(html)
 
-	return len(arrOptions) - 1, nil
-}
+	res, _ = http.Get(url)
 
-func getImagesURL(mangaID, strChapter string, numberPages int) (images []string) {
-	for i := 1; i <= numberPages; i++ {
-		prefix := strings.ToUpper(string(mangaID[0]))
-		url := fmt.Sprintf("https://img.lermanga.org/%s/%s/capitulo-%s/%d.jpg", prefix, mangaID, strChapter, i)
-		images = append(images, url)
+	js, err := utils.ResponseBodyToHTML(res.Body)
+
+	if err != nil {
+		return nil, err
 	}
-	return
+
+	defer res.Body.Close()
+
+	parts := regexMatchJSON.FindStringSubmatch(js)
+
+	if len(parts) < 2 {
+		return nil, utils.ERROR_NOT_FOUND
+	}
+
+	var images []string
+	json.Unmarshal([]byte(parts[2]), &images)
+
+	return images, nil
 }
 
 func internalError(err error) error {
