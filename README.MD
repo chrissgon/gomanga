@@ -46,6 +46,6 @@ This project is open source and welcomes community contributions. Feel free to f
 
 We hope that gomanga proves useful to you and enhances your manga reading experience. Feel free to explore the source code, provide feedback, and report any issues you encounter.
 
-## 💚 Authors
+## ❤️ Authors
 
 - [@chrissgon](https://www.github.com/chrissgon)
